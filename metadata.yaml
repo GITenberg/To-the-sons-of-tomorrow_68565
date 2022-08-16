@@ -1,0 +1,40 @@
+_repo: To-the-sons-of-tomorrow_68565
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Beecham, Tom
+    alias: Beecham, Thomas A.
+    birthdate: 1926
+    deathdate: 2000
+    gutenberg_agent_id: '34284'
+    url: http://www.gutenberg.org/2009/agents/34284
+creator:
+  author:
+    agent_name: Cox, Irving E.
+    alias: Cox, Irving England, Jr.
+    birthdate: 1917
+    deathdate: 2001
+    gutenberg_agent_id: '31427'
+    url: http://www.gutenberg.org/2009/agents/31427
+description: ''
+gutenberg_issued: '2022-07-19'
+identifiers:
+  gutenberg: '68565'
+language: en
+pgterms:marc905: 20220527030133cox
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net.
+publication_note: United States :Space Publications, Inc.,1953.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: To the sons of tomorrow
+url: http://www.gutenberg.org/ebooks/68565
